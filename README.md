@@ -1,7 +1,7 @@
 <!-- Ishika Sakhare | AI & DS Portfolio -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#9370DB;">Ishika Sakhare</span></h1>
-<h3 align="center">🎓 AI & Data Science Student | YCCE, </h3>
+<h3 align="center">🎓 AI & Data Science Student | YCCE  </h3>
 
 ---
 
